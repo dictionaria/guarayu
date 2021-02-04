@@ -1,0 +1,46 @@
+{
+    "language": {
+        "glottocode": "guar1292",
+        "isocode": "gyr",
+        "name": "Guarayu"
+    },
+    "authors": ["Swintha Danielsen", "Lena Sell", "Lena Terhart"],
+    "date_published": "2019",
+    "number": 7,
+    "doi": "10.5281/zenodo.3340718",
+    "properties": {
+        "title": "Guarayu. A revised dictionary by Alfred Hoeller",
+        "media_lookup": ["Guarayu"],
+        "marker_map": {
+            "dn": "gxx",
+            "dr": "gxy",
+            "np": "sf"
+        },
+        "entry_sep": "\\lx ",
+        "entry_id": "lx",
+        "entry_map": {
+            "so": "Source_Citation_Form",
+            "lg": "Language_of_Origin",
+            "bw": "Borrowed_Word",
+            "pd": "Paradigm",
+            "oe": "Dialect_Genderlect_Info",
+            "ng": "Comment"
+        },
+        "entry_custom_order": [
+            "Source_Citation_Form", "Variant_Form", "Language_of_Origin",
+            "Borrowed_Word", "Paradigm", "Dialect_Genderlect_Info", "Comment"
+        ],
+        "sense_map": {
+            "gxx": "alt_translation1",
+            "gxy": "alt_translation2"
+        },
+        "metalanguages": {
+            "gxx": "Spanish",
+            "gxy": "German"
+        },
+        "labels": {
+            "oe": "Dialect/Genderlect Info"
+        },
+        "custom_fields": ["Spanish", "German"]
+    }
+}

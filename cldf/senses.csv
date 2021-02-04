@@ -2666,7 +2666,7 @@ SN002664,a species of wasp,LX001561,4cc1f9ed661268f7a9c01ce8208e4060,animal - in
 SN002665,population,tava,,other; human,población,Bevölkerung
 SN002666,"a species of black bird, with a red head",tavera,,animal - bird,"una especie de pájaro negro, con cabeza colorada",schwarze Vogelart mit rotem Kopf
 SN002667,deceit,tavi,,social relations,engaño,Betrug
-SN002668,hair; fur; wool,taviyu,9c035232d2dd7f191aaf11192a5b9a72,body part; animal - body part,vello; pellejo; lana,Vliess; Fell; Pelz; Behaarung; Wollstoff
+SN002668,hair; fur; wool,taviyu,,body part; animal - body part,vello; pellejo; lana,Vliess; Fell; Pelz; Behaarung; Wollstoff
 SN002669,bad smell of urine,LX001562,9c035232d2dd7f191aaf11192a5b9a72,property,hedor a orina,Uringestank
 SN002670,"mythological town of the Guarayo, where the tokai of the tamoi is",tavusu,38f3a5075b77a6fd39254a4f7ee83b45,name; location; religion & spirituality,ciudad mitológica de los guarayo donde está el tokai de los tamoi,"mythologische Stadt der Guarayo, wo der Tokai des Tamois ist."
 SN002671,"a species of plant, with tubers similar to potatoes and big leaves",taya,fea24a81100850b5c4c5d729f1a552b7,plant,"una especie de planta, con tubérculos parecidos a papa y hojas grandes",Pflanzenart mit kartoffelähnlichen Knollen und großen Blättern
@@ -3482,7 +3482,7 @@ SN003480,be side by side; be close together (sitting),LX002014,e4c168705f280efb2
 SN003481,crack,yoka,034cb23648287be4c29a018d5918e244,activity,"romper, quebrar",zerstoßen; zerschlagen
 SN003482,shut,yokienda,10c8065cadb77da15d05cc5ffbcabfee,activity,cerrar,zusperren
 SN003483,support,yoko,f675207f47c398c50b21563bae51fa58,activity,"sostener, apoyar",stützen; festhalten
-SN003484,tie,yokwa,f675207f47c398c50b21563bae51fa58,activity,amarrar,anbinden
+SN003484,tie,yokwa,,activity,amarrar,anbinden
 SN003485,"command, order",yokwai,3f43bbaa3c724018a2d8db07f2448af8,activity,"ordenar, mandar, dar orden",befehligen; beordern; beauftragen
 SN003486,put on,yono,4db8f1fcb3bdcf3b896051d8b0b1ddbd,activity,poner encima,darauflegen
 SN003487,fix,LX002015,,activity,atar en algo,festbinden

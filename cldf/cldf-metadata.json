@@ -5,10 +5,39 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Danielsen, Swintha and Sell, Lena and Terhart, Lena. 2019. Guarayu. A revised dictionary by Alfred Hoeller. Dictionaria 7. 1-3590 (Available online at https://dictionaria.clld.org/contributions/guarayu)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:creator": "Swintha Danielsen and Lena Sell and Lena Terhart",
     "dc:identifier": "https://dictionaria.clld.org/contributions/guarayu",
+    "dc:license": "CC-BY 4.0",
     "dc:title": "Guarayu. A revised dictionary by Alfred Hoeller",
+    "dcat:accessURL": "git@github.com:dictionaria/guarayu",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "git@github.com:dictionaria/guarayu",
+            "dc:created": "v1.0-2-g3549615"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.3-treedb-fixes"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.8.5"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "daakaka",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -47,18 +76,17 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Borrowed_word",
-                        "titles": "borrowed word"
+                        "name": "Borrowed_Word"
                     },
                     {
                         "datatype": "string",
-                        "name": "Comment",
-                        "titles": "comment"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
                     },
                     {
                         "datatype": "string",
-                        "name": "Dialect_genderlect_info",
-                        "titles": "dialect/genderlect info"
+                        "name": "Dialect_Genderlect_Info",
+                        "titles": "Dialect/Genderlect Info"
                     },
                     {
                         "datatype": "string",
@@ -67,31 +95,39 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Language_of_Origin"
+                    },
+                    {
+                        "datatype": "string",
                         "separator": " ; ",
                         "name": "Media_IDs"
                     },
                     {
                         "datatype": "string",
-                        "name": "Origin_language",
-                        "titles": "original language"
+                        "name": "Paradigm"
                     },
                     {
                         "datatype": "string",
-                        "name": "Paradigm",
-                        "titles": "paradigm"
+                        "name": "Source_Citation_Form"
                     },
                     {
                         "datatype": "string",
-                        "name": "Source_citation_form",
-                        "titles": "source citation form"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variant",
-                        "titles": "variant"
+                        "name": "Variant_Form",
+                        "titles": "Variant Form(s)"
                     }
                 ],
                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
                     {
                         "columnReference": [
                             "Entry_IDs"
@@ -109,17 +145,6 @@
                         ],
                         "reference": {
                             "resource": "media.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Language_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -271,11 +296,6 @@
                     {
                         "datatype": "string",
                         "separator": " ; ",
-                        "name": "Media_IDs"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
                         "name": "Sense_IDs"
                     },
                     {
@@ -288,17 +308,6 @@
                     }
                 ],
                 "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Media_IDs"
-                        ],
-                        "reference": {
-                            "resource": "media.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
                     {
                         "columnReference": [
                             "Language_ID"
@@ -320,6 +329,17 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Sense_IDs"
+                        ],
+                        "reference": {
+                            "resource": "senses.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -333,11 +353,16 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "name": "Language_ID"
                     },
                     {
@@ -349,18 +374,36 @@
                         "name": "URL"
                     },
                     {
+                        "datatype": "string",
                         "name": "mimetype"
                     },
                     {
                         "datatype": "integer",
                         "name": "size"
                     }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "media.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 1,
             "tableSchema": {
                 "columns": [
                     {
