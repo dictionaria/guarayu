@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/guarayu",
-            "dc:created": "v1.0-2-g3549615"
+            "dc:created": "v1.0-8-g38df3ab"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,7 +36,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "daakaka",
+    "rdf:ID": "guarayu",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
