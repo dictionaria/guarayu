@@ -1,5 +1,21 @@
 {
     "title": "dictionaria/guarayu: Guarayu. A revised dictionary by Alfred Hoeller",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Swintha Danielsen"
+        },
+        {
+            "name": "Lena Sell"
+        },
+        {
+            "name": "Lena Terhart"
+        }
+    ],
     "communities": [
         {
             "identifier": "cldf-datasets"
@@ -11,24 +27,9 @@
             "identifier": "dictionaria"
         }
     ],
-    "keywords": [
-        "cldf:Dictionary",
-        "linguistics"
-    ],
     "upload_type": "dataset",
-    "access_right": "open",
     "license": {
         "id": "CC-BY-4.0"
     },
-    "creators": [
-        {
-            "name": "Swintha Danielsen"
-        },
-        {
-            "name": "Lena Sell"
-        },
-        {
-            "name": "Lena Terhart"
-        }
-    ]
+    "description": "Danielsen, Swintha and Sell, Lena and Terhart, Lena. 2019. Guarayu. A revised dictionary by Alfred Hoeller. Dictionaria 7. 1-3590 (Available online at https://dictionaria.clld.org/contributions/guarayu)"
 }

@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/guarayu",
-            "dc:created": "v1.0-8-g38df3ab"
+            "dc:created": "v1.0-10-g55e5600"
         },
         {
             "rdf:type": "prov:Entity",
