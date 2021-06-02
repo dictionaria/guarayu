@@ -41,6 +41,6 @@ tqdm==4.60.0
 transliterate==1.10.2
 Unidecode==1.2.0
 uritemplate==3.0.1
-urllib3==1.26.4
+urllib3==1.26.5
 webencodings==0.5.1
 zenodoclient==0.4.1
