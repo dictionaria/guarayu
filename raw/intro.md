@@ -28,7 +28,7 @@ The Guarayu language has been recognized as an official language in the latest B
 Today, Guarayu is endangered, just like most other Bolivian indigenous languages. And this in spite of the fact that it is still used as the language of daily communication in some villages (like in Urubichá), and learnt by children and immigrants, which gives it at least a vital status in this linguistic island. Elsewhere (e.g. in Ascención de Guarayos), Guarayu is being replaced by local Spanish and even other indigenous languages of the highland migrants (Quechua and Aymara), and children only have a restricted competence, even though they learn it at school. After the implementation of the law of language policies in 2012, all employees in an administrative or public position (like municipality, administration, nurses, doctors, teachers) have to attend Guarayu classes and obtain a certificate of at least basic language competence.
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg">
 
 **Map**: Bolivia and the Tupí-Guaraní languages (Danielsen & Gasparini 2015: 445)<a href="#ref4" id="4" data-toggle="tooltip" title="For a detailed map of the province Guarayos, check this official website: 
 https://web.archive.org/web/20080116094500/
@@ -42,8 +42,8 @@ Guarayu is a member of the large but shallow Tupí-Guaraní language family with
 
 
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg">
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg">
 </a>
 
 **Figure 1**: The subclassification of Tupí-Guaraní (Michael et al. 2015: 204)
@@ -69,12 +69,12 @@ The data of this dictionary has been excerpted from two dictionaries by Alfredo 
 <table>
 <tbody>
 <tr><td>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg">
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg">
 </a>
 </td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom">
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg">
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg">
 </a>
 </td></tr>
 <tr><td><b>Image 1</b>: Höller in Ascensión (Höller 1931: 43)</td><td><b>Image 2</b>: Höller with Sirionó children in Santa María (Höller 1932: 27)</td></tr>
@@ -86,13 +86,13 @@ Additionally, we used the data from Hoeller’s manuscript of a Guarayu–Spanis
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"></a>
 
 **Image 3**: Sample pages of Hoeller 1932a: 78-79
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"></a>
 
 **Image 4**: Sample pages of Hoeller 1929: 10-11
 
@@ -145,7 +145,7 @@ The nasal vowel **ɨ̈** may not always be represented correctly in any browser.
 
 <table>
 <tbody>
-<tr><td><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"></td></tr>
+<tr><td><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"></td></tr>
 <tr><td><b>Image 5</b>: This is what it should look like</td><td><b>Image 6</b>: Possible mistakes in representation</td></tr>
 </tbody>
 </table>
@@ -369,7 +369,7 @@ Since stress placement is one of the decisive factors that distinguishes the thr
 The phonemic inventory of Guarayu has been proposed tentatively by Crowhurst (2000), and the proposal can mostly be confirmed by our findings. Guarayu has a system of six oral and six corresponding nasal vowels, represented in Figure 2:
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg">
 
 
 **Figure 2**: Vowel phonemes in Guarayu
@@ -1223,7 +1223,7 @@ En la actualidad la lengua guarayu se encuentra en peligro, como casi todas las 
 
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg">
 
 
 **Mapa**: Bolivia y las lenguas Tupí-Guaraní (Danielsen & Gasparini 2015: 445)<a href="#ref30" data-toggle="tooltip" id="30" title="Para ver un mapa detallada de la provincia Guarayos, chequeen esta página oficial: 
@@ -1237,8 +1237,8 @@ https://www.aguabolivia.org/situacionaguaX/Riego/mapas/santacruz/guarayos.htm (1
 Guarayu es miembro de la familia lingüística grande pero poco profunda Tupí-Guaraní, parte del tronco Tupi. En clasificaciones anteriores (Rodrigues 1984/85, Rodrigues & Cabral 2002) se encuentra el guarayu clasificado en el subgrupo II, junto con el sirionó, jorá y yuki. Sin embargo, la investigación realizada por Dietrich (1990a: 111) considera mucho más detalles de las lenguas guaraní, y guaraní boliviano en particular; a partir de este análisis el guarayu puede ser clasificado más cerca al guaraní de Paraguay y Bolivia – lexicalmente y gramaticalmente –, mientras que el sirionó y el yuki son más innovadores y pueden más bien ser entendidos como enlaces entre el área guaraní antigua y la Amazonía central (Dietrich 1990a: 114). De hecho, el guarayu es muy cercano al guaraní, aunque es más conservador, porque no comparte dos cambios de sonidos regulares significantes a partir del Proto-Tupí-Guaraní con el guaraní: *ts < guarayu /ts/, en cambio guaraní /h/, y el guarayu mantiene la consonante final *¬_r, pero el guaraní lo perdió. La comparación empírica más reciente resulta en la clasificación de un subgrupo Tupí-Guaraní Sureño (cf. Michael et al. 2015: 204), del cual guarayu forma parte en una rama separada (ver Figura 1). Según estos últimos hallazgos, guarayu es relacionado tan cerca con el guaraní como el subgrupo sirionó. Investigaciones en el futuro tienen que mostrar si el guarayu no sea de hecho más cercano al guaraní, tomando en cuenta las correspondencias muy regulares. Según nuestros conocimientos, el subgrupo sirionó ha tenido más cambios en aislamiento del guaraní que el guarayu, pero eso necesita pruebas con datos más nuevos.
 
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg">
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg">
 </a>
 
 **Figura 1**: La subclasificación del Tupí-Guaraní (Michael et al. 2015: 204)
@@ -1262,12 +1262,12 @@ Los datos de este diccionario son extraídos de dos diccionarios de Alfredo Hoel
 <table>
 <tbody>
 <tr><td>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg">
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg">
 </a>
 </td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom">
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg">
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg">
 </a>
 </td></tr>
 <tr><td><b>Imagen 1</b>: Höller en Ascensión (Höller 1931: 43)</td><td><b>Imagen 2</b>: Höller con niños Sirionó en Santa María (Höller 1932: 27)</td></tr>
@@ -1278,13 +1278,13 @@ Adicionalmente, usamos los datos del manuscrito de Hoeller para un diccionario g
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"></a>
 
 **Imagen 3**: Páginas de ejemplo de Hoeller 1932a: 78-79
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"></a>
 
 **Imagen 4**: Páginas de ejemplo de Hoeller 1929: 10-11
 
@@ -1337,7 +1337,7 @@ La vocal nasal **ɨ̈** puede que no sea siempre representada correctamente en c
 
 <table>
 <tbody>
-<tr><td><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"></td></tr>
+<tr><td><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"></td></tr>
 <tr><td><b>Imagen 5</b>: Así tendría que verse </td><td><b>Imagen 6</b>: Errores posibles de la representación</td></tr>
 </tbody>
 </table>
@@ -1563,7 +1563,7 @@ Como la diferencia del acento es uno de los factores decisivos en distinguir los
 Crowhurst (2000) propuso el inventario fonémico del guarayu tentativamente, y podemos mayormente confirmar su propuesta. Guarayu tiene un sistema de seis vocales orales con seis vocales nasales correspondientes, representados en Figura 2:
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg">
 
 
 **Figura 2**: Vocales fonémicas del guarayu
