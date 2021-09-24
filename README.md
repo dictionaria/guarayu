@@ -39,7 +39,7 @@ The Guarayu language has been recognized as an official language in the latest B
 Today, Guarayu is endangered, just like most other Bolivian indigenous languages. And this in spite of the fact that it is still used as the language of daily communication in some villages (like in Urubichá), and learnt by children and immigrants, which gives it at least a vital status in this linguistic island. Elsewhere (e.g. in Ascención de Guarayos), Guarayu is being replaced by local Spanish and even other indigenous languages of the highland migrants (Quechua and Aymara), and children only have a restricted competence, even though they learn it at school. After the implementation of the law of language policies in 2012, all employees in an administrative or public position (like municipality, administration, nurses, doctors, teachers) have to attend Guarayu classes and obtain a certificate of at least basic language competence.
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg"/>
 
 **Map**: Bolivia and the Tupí-Guaraní languages (Danielsen &amp; Gasparini 2015: 445)<a data-toggle="tooltip" href="#ref4" id="4" title="For a detailed map of the province Guarayos, check this official website: 
 https://web.archive.org/web/20080116094500/
@@ -50,8 +50,8 @@ Guarayu is a member of the large but shallow Tupí-Guaraní language family with
 
 
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg"/>
 </a>
 
 **Figure 1**: The subclassification of Tupí-Guaraní (Michael et al. 2015: 204)
@@ -76,12 +76,12 @@ The data of this dictionary has been excerpted from two dictionaries by Alfredo 
 <table>
 <tbody>
 <tr><td>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg"/>
 </a>
 </td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom">
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg"/>
 </a>
 </td></tr>
 <tr><td><b>Image 1</b>: Höller in Ascensión (Höller 1931: 43)</td><td><b>Image 2</b>: Höller with Sirionó children in Santa María (Höller 1932: 27)</td></tr>
@@ -93,13 +93,13 @@ Additionally, we used the data from Hoeller’s manuscript of a Guarayu–Spanis
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"/></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"/></a>
 
 **Image 3**: Sample pages of Hoeller 1932a: 78-79
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"/></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"/></a>
 
 **Image 4**: Sample pages of Hoeller 1929: 10-11
 
@@ -152,7 +152,7 @@ The nasal vowel **ɨ̈** may not always be represented correctly in any browser.
 
 <table>
 <tbody>
-<tr><td><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"/></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"/></td></tr>
+<tr><td><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"/></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"/></td></tr>
 <tr><td><b>Image 5</b>: This is what it should look like</td><td><b>Image 6</b>: Possible mistakes in representation</td></tr>
 </tbody>
 </table>
@@ -376,7 +376,7 @@ Since stress placement is one of the decisive factors that distinguishes the thr
 The phonemic inventory of Guarayu has been proposed tentatively by Crowhurst (2000), and the proposal can mostly be confirmed by our findings. Guarayu has a system of six oral and six corresponding nasal vowels, represented in Figure 2:
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg"/>
 
 
 **Figure 2**: Vowel phonemes in Guarayu
@@ -501,11 +501,11 @@ In fact, in Guarayu, one does not say ‘I eruct’ (active), but ‘my eructati
 <table>
 <tbody>
 <tr><td>(4)</td><td><i>ɨusei</i> ‘thirsty’ (n/v):</td><td><i>che</i></td><td><i>ɨusei</i></td><td><i>a-ɨusei</i></td><td>(lit.</td><td><i>ɨ-u-sei</i>)</td></tr>
-<tr></tr><td colspan="2"><td>1SG</td><td>thirsty</td><td>1SG-thirsty</td><td></td><td>water-drink.eat-desire</td>
+<tr></tr><td colspan="2"><td>1SG</td><td>thirsty</td><td>1SG-thirsty</td><td></td><td>water-drink.eat-desire</td></td></tbody></table></ambo></v>
 <tr><td colspan="2"><td colspan="2">‘I am thirsty’</td><td colspan="3">‘I am very thirsty’</td></td></tr>
 <tr><td colspan="2"></td><td colspan="2">(lit. ‘my water-drink-desire’)</td><td>(lit. ‘I drink-water-desire’)</td><td colspan="2"></td></tr>
-</td></tbody>
-</table>
+
+
 
 Apart from those roots that take a 3<sup>rd</sup> person marker _i_- before an initial consonant and _y_- before an initial vowel in the _che_-paradigm, there is another class of roots that originally have an initial vowel, but in their relational forms with speech act participants (SAPs), they take the relational prefix _r_-, and in the 3<sup>rd</sup> person the relational marker is _s_-. Relational forms are also used in syntactic compounding. Guarayu speakers perceive the forms with _r_- and _s_- as lexical units, for which reason both forms can generally be found in the dictionary, in addition to the bare form or root with the initial vowel. We can argue that the _r_-/_s_-forms are relatively lexicalized and only recognizable without these initial consonants when e.g. incorporated or in morphological compounds (cf. <a href="#constituent-order">Constituent order and postpositions</a>). Many combinations of these bare forms with other lexical material (nominal or verbal roots) show a certain degree of lexicalization. A third prefix that is losing ground of productivity today, is _t_- for derivation of non-possessed forms (also nominalizing with verbal roots in Hoeller 1932a). Forms with this prefix most often led to lexicalized words with specified meanings. In other cases, _t_- can be the 3<sup>rd</sup> person marker of some kinship terms where we would expect _s_-. In Hoeller’s times, _t_- was almost fully productive, as it seems, even though the author may also have generalized it a bit too much. In example (5), a typical noun with the "R-S-T-0” variation is shown, as we call it in the dictionary:
 
@@ -554,10 +554,10 @@ In constructions that require a portmanteau prefix, the initial consonant of the
 <table>
 <tbody>
 <tr><td>(8)</td><td><i>oro-yuka</i></td><td>or</td><td><i>oro-yuka,</i></td><td>but:</td><td><i>oro-epia</i></td><td>and</td><td>oro-sepia</td></tr>
-<tr><td></td><td colspan="2">1&gt;2-kill</td><td colspan="2">1PL.excl-kill</td><td colspan="2">1&gt;2-see</td><td>1PL.excl-see</td></tr>
-<tr><td></td><td colspan="2">‘I kill you’</td><td colspan="2">‘we (excl.) kill him/her/it’</td><td colspan="2">‘I see you’</td><td>‘we (excl.) see him/her/it’</td></tr>
-</tbody>
-</table>
+<tr><td></td><td colspan="2">1&gt;2-kill</td><td colspan="2">1PL.excl-kill</td></tr></tbody></table><td colspan="2">1&gt;2-see</td><td>1PL.excl-see</td>
+<tr><td></td><td colspan="2">‘I kill you’</td><td colspan="2">‘we (excl.) kill him/her/it’</td></tr><td colspan="2">‘I see you’</td><td>‘we (excl.) see him/her/it’</td>
+
+
 
 
 
@@ -745,9 +745,9 @@ The examples in (21) show the use of nominal tense in Guarayu with the noun _rë
 <tbody>
 <tr><td>(21)</td><td><i>s-ëta-gwer,</i></td><td><i>che</i></td><td><i>rëta</i></td><td><i>ramo</i></td><td><i>che</i></td><td><i>rëta</i></td><td>rangwer<i></i></td></tr>
 <tr><td></td><td>3-house-PAST.N</td><td>1SG</td><td>house</td><td>FUT.N</td><td>1SG</td><td>house</td><td>FRUST.N</td></tr>
-<tr><td></td><td>‘his/her former house’</td><td colspan="3">‘my future house’</td><td colspan="3">‘(this) would have been my house’</td></tr>
-</tbody>
-</table>
+<tr><td></td><td>‘his/her former house’</td></tr></tbody></table></you><td colspan="3">‘my future house’</td><td colspan="3">‘(this) would have been my house’</td>
+
+
 <p style="text-align:right;">(Hoeller 1932a: 337, 217, 218)</p>
 
 
@@ -808,9 +808,9 @@ The postponed particle _va’e_ is productively used to derive attributes from e
 <tbody>
 <tr><td>(23)</td><td><i>a-yapirai</i></td><td><i>mbɨa</i></td><td><i>i-gwayɨ</i></td><td><i>va’e /</i></td><td><i>i-vava</i></td><td><i>va’e /</i></td><td><i>o-vava</i></td><td><i>va’e</i><a data-toggle="tooltip" href="#ref17" id="17" title="Hoeller (1932a: 23) gives the second nominalized verb with stative marking; however, this may be a mistake – ivava va’e would mean ‘light’, cf. (22), is formally correct, but does not make sense here. Instead, the second option is probably the correct one, using o- ‘3.COREF’ (Hoeller 1932a: 280)."><sup>17</sup></a></td></tr>
 <tr><td></td><td>1SG-collide</td><td>people</td><td>3-play</td><td>ATTR</td><td>3-fight</td><td>ATTR</td><td>3COREF-fight</td><td>ATTR</td></tr>
-<tr><td></td><td colspan="8">‘I bumped into people that were playing / fighting’</td></tr>
-</tbody>
-</table>
+<tr><td></td><td colspan="8">‘I bumped into people that were playing / fighting’</td></tr></tbody></table>
+
+
 <p style="text-align:right;">(Hoeller 1932a: 23, 280)</p>
 
 
@@ -857,10 +857,10 @@ Postpositions also inflect for person (compare the description of predication in
 <table>
 <tbody>
 <tr><td>(27)</td><td><i>a-ma’ë</i></td><td><i>nde</i></td><td><i>rese</i></td><td rowspan="3"><p style="visibility: hidden;">-</p></td><td rowspan="3"><p style="visibility: hidden;">-</p></td><td>(28)</td><td><i>a-ye-pɨtaso</i></td><td><i>nde</i></td><td><i>sui</i></td></tr>
-<tr><td></td><td>1SG-look</td><td>2SG</td><td>CIRC</td><td></td><td>1SG-RFLX-avoid</td><td>2SG</td><td>SEP</td></tr>
+<tr><td></td><td>1SG-look</td><td>2SG</td><td>CIRC</td></tr></tbody></table><td></td><td>1SG-RFLX-avoid</td><td>2SG</td><td>SEP</td>
 <tr><td></td><td colspan="3">‘I look at you’</td><td></td><td colspan="3">‘I avoid you’</td></tr>
-</tbody>
-</table>
+
+
 
 
 
@@ -1162,7 +1162,7 @@ En la actualidad la lengua guarayu se encuentra en peligro, como casi todas las 
 
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7457-4029-0D8F-0/web.jpg"/>
 
 
 **Mapa**: Bolivia y las lenguas Tupí-Guaraní (Danielsen &amp; Gasparini 2015: 445)<a data-toggle="tooltip" href="#ref30" id="30" title="Para ver un mapa detallada de la provincia Guarayos, chequeen esta página oficial: 
@@ -1173,8 +1173,8 @@ https://www.aguabolivia.org/situacionaguaX/Riego/mapas/santacruz/guarayos.htm (1
 Guarayu es miembro de la familia lingüística grande pero poco profunda Tupí-Guaraní, parte del tronco Tupi. En clasificaciones anteriores (Rodrigues 1984/85, Rodrigues &amp; Cabral 2002) se encuentra el guarayu clasificado en el subgrupo II, junto con el sirionó, jorá y yuki. Sin embargo, la investigación realizada por Dietrich (1990a: 111) considera mucho más detalles de las lenguas guaraní, y guaraní boliviano en particular; a partir de este análisis el guarayu puede ser clasificado más cerca al guaraní de Paraguay y Bolivia – lexicalmente y gramaticalmente –, mientras que el sirionó y el yuki son más innovadores y pueden más bien ser entendidos como enlaces entre el área guaraní antigua y la Amazonía central (Dietrich 1990a: 114). De hecho, el guarayu es muy cercano al guaraní, aunque es más conservador, porque no comparte dos cambios de sonidos regulares significantes a partir del Proto-Tupí-Guaraní con el guaraní: *ts &lt; guarayu /ts/, en cambio guaraní /h/, y el guarayu mantiene la consonante final *¬_r, pero el guaraní lo perdió. La comparación empírica más reciente resulta en la clasificación de un subgrupo Tupí-Guaraní Sureño (cf. Michael et al. 2015: 204), del cual guarayu forma parte en una rama separada (ver Figura 1). Según estos últimos hallazgos, guarayu es relacionado tan cerca con el guaraní como el subgrupo sirionó. Investigaciones en el futuro tienen que mostrar si el guarayu no sea de hecho más cercano al guaraní, tomando en cuenta las correspondencias muy regulares. Según nuestros conocimientos, el subgrupo sirionó ha tenido más cambios en aislamiento del guaraní que el guarayu, pero eso necesita pruebas con datos más nuevos.
 
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B853-B986-94AB-0/Figure1_Michael_etal_2015_204_TG_Tupi.jpeg">
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-B853-B986-94AB-0/web.jpg"/>
 </a>
 
 **Figura 1**: La subclasificación del Tupí-Guaraní (Michael et al. 2015: 204)
@@ -1197,12 +1197,12 @@ Los datos de este diccionario son extraídos de dos diccionarios de Alfredo Hoel
 <table>
 <tbody>
 <tr><td>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/Image1Hoeller1.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-321A-8C3D-690E-0/web.jpg"/>
 </a>
 </td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom">
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/Image2Hoeller2.jpg">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DEB5-9AF7-9DA5-0/web.jpg"/>
 </a>
 </td></tr>
 <tr><td><b>Imagen 1</b>: Höller en Ascensión (Höller 1931: 43)</td><td><b>Imagen 2</b>: Höller con niños Sirionó en Santa María (Höller 1932: 27)</td></tr>
@@ -1213,13 +1213,13 @@ Adicionalmente, usamos los datos del manuscrito de Hoeller para un diccionario g
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"/></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/Image3_Hoeller1932a_78_79.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-4022-EAFF-934A-0/web.jpg"/></a>
 
 **Imagen 3**: Páginas de ejemplo de Hoeller 1932a: 78-79
 
 
 
-<a href="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"/></a>
+<a href="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/Image4_Hoeller1929_10_11.jpg"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-1C3F-B567-57CA-0/web.jpg"/></a>
 
 **Imagen 4**: Páginas de ejemplo de Hoeller 1929: 10-11
 
@@ -1272,7 +1272,7 @@ La vocal nasal **ɨ̈** puede que no sea siempre representada correctamente en c
 
 <table>
 <tbody>
-<tr><td><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"/></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"/></td></tr>
+<tr><td><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-7B05-3746-3841-0/web.jpg"/></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td rowspan="2"><p style="visibility: hidden;">-</p></td><td style="vertical-align:bottom"><img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-0A6D-E2F2-E0CE-0/web.jpg"/></td></tr>
 <tr><td><b>Imagen 5</b>: Así tendría que verse </td><td><b>Imagen 6</b>: Errores posibles de la representación</td></tr>
 </tbody>
 </table>
@@ -1498,7 +1498,7 @@ Como la diferencia del acento es uno de los factores decisivos en distinguir los
 Crowhurst (2000) propuso el inventario fonémico del guarayu tentativamente, y podemos mayormente confirmar su propuesta. Guarayu tiene un sistema de seis vocales orales con seis vocales nasales correspondientes, representados en Figura 2:
 
 
-<img src="https://cdstar.shh.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg"/>
+<img src="https://cdstar.eva.mpg.de//bitstreams/EAEA0-3141-8CC8-699B-0/web.jpg"/>
 
 
 **Figura 2**: Vocales fonémicas del guarayu
@@ -1624,11 +1624,11 @@ De hecho, en el guarayu no decimos ‘yo eructo’ (activo) sino ‘mi eructaci�
 <table>
 <tbody>
 <tr><td>(4)</td><td><i>ɨusei</i> ‘sediento’ (n/v):</td><td><i>che</i></td><td><i>ɨusei</i></td><td><i>a-ɨusei</i></td><td>(lit.</td><td><i>ɨ-u-sei</i>)</td></tr>
-<tr></tr><td colspan="2"><td>1SG</td><td>sed</td><td>1SG-sed</td><td></td><td>agua-tomar.comer-deseo</td>
+<tr></tr><td colspan="2"><td>1SG</td><td>sed</td><td>1SG-sed</td><td></td><td>agua-tomar.comer-deseo</td></td></tbody></table></ambo></v>
 <tr><td colspan="2"><td colspan="2">‘yo tengo sed’</td><td colspan="3">‘yo tengo mucha sed’</td></td></tr>
 <tr><td colspan="2"></td><td colspan="2">(lit. ‘mi deseo de tomar agua’)</td><td>(lit. ‘yo deseo de tomar agua’)</td><td colspan="2"></td></tr>
-</td></tbody>
-</table>
+
+
 
 
 Aparte de las raíces que toman un marcador de 3<sup>a</sup> persona _i_- delante de una consonante inicial y _y_- delante de una vocal inicial en el paradigma-_che_, hay otra clase de raíces que originalmente empiezan con una vocal, pero en sus formas relacionales con participantes del acto de habla (PAHs), toman un prefijo relacional  _r_-, y en la 3<sup>a</sup> persona el marcador relacional es _s_-. Formas relacionales son usadas también en composición sintáctica. Los hablantes del guarayu perciben las formas con _r_- y _s_- como unidades léxicas, y por eso ambas formas están en general en el diccionario, además de la raíz pura con la vocal inicial. Podríamos decir que las formas con _r_-/_s_- son relativamente lexicalizadas y sin estas consonantes iniciales se reconocen solo en por ej. incorporación o composición morfológica (cf. <a href="#constituentes">orden de constituyentes y posposiciones</a>). Muchas combinaciones con estas raíces puras con otro material léxico (raíces nominales o verbales) también muestran cierto grado de lexicalización. Un tercer prefijo que ha perdido su productividad hoy es _t_- para derivar una forma no-poseída o absoluta (también nominalizando raíces verbales en Hoeller 1932a). Formas con este prefijo han creado palabras lexicalizadas con significados especificados aún más a menudo. En otros casos la forma con _t_- es la que marca la 3<sup>a</sup> persona donde esperaríamos la _s_-. Al aparecer, la _t_- fue completamente productiva en tiempos de Hoeller, aunque pueda ser que el autor lo haya generalizado un poco demasiado. Un sustantivo con la variación "R-S-T-0”, como la llamamos en el diccionario, se encuentra en el ejemplo (5):
@@ -1676,10 +1676,10 @@ En construcciones que requieren el prefijo portmanteau la consonante inicial de 
 <table>
 <tbody>
 <tr><td>(8)</td><td><i>oro-yuka</i></td><td>or</td><td><i>oro-yuka,</i></td><td>but:</td><td><i>oro-epia</i></td><td>and</td><td>oro-sepia</td></tr>
-<tr><td></td><td colspan="2">1&gt;2-matar</td><td colspan="2">1PL.excl-matar</td><td colspan="2">1&gt;2-ver</td><td>1PL.excl-ver</td></tr>
-<tr><td></td><td colspan="2">‘yo te mato’</td><td colspan="2">‘nosotros (excl.) lo matamos’</td><td colspan="2">‘yo te veo’</td><td>‘nosotros (excl.) lo vemos’</td></tr>
-</tbody>
-</table>
+<tr><td></td><td colspan="2">1&gt;2-matar</td><td colspan="2">1PL.excl-matar</td></tr></tbody></table><td colspan="2">1&gt;2-ver</td><td>1PL.excl-ver</td>
+<tr><td></td><td colspan="2">‘yo te mato’</td><td colspan="2">‘nosotros (excl.) lo matamos’</td></tr><td colspan="2">‘yo te veo’</td><td>‘nosotros (excl.) lo vemos’</td>
+
+
 
 
 
@@ -1866,9 +1866,9 @@ Los ejemplos en (21) muestran el uso de tiempo nominal en el guarayu con el sust
 <tbody>
 <tr><td>(21)</td><td><i>s-ëta-gwer,</i></td><td><i>che</i></td><td><i>rëta</i></td><td><i>ramo</i></td><td><i>che</i></td><td><i>rëta</i></td><td>rangwer<i></i></td></tr>
 <tr><td></td><td>3-casa-PS.N</td><td>1SG</td><td>casa</td><td>FUT.N</td><td>1SG</td><td>house</td><td>FRUST.N</td></tr>
-<tr><td></td><td>‘su anterior casa’</td><td colspan="3">‘mi futura casa’</td><td colspan="3">‘ésta prodría haber sido mi casa’</td></tr>
-</tbody>
-</table>
+<tr><td></td><td>‘su anterior casa’</td></tr></tbody></table></you><td colspan="3">‘mi futura casa’</td><td colspan="3">‘ésta prodría haber sido mi casa’</td>
+
+
 <p style="text-align:right;">(Hoeller 1932a: 337, 217, 218)</p>
 
 
@@ -1930,9 +1930,9 @@ La partícula pospuesta _va’e_ es productiva para derivar atributos a partir d
 <tbody>
 <tr><td>(23)</td><td><i>a-yapirai</i></td><td><i>mbɨa</i></td><td><i>i-gwayɨ</i></td><td><i>va’e /</i></td><td><i>i-vava</i></td><td><i>va’e /</i></td><td><i>o-vava</i></td><td><i>va’e</i><a data-toggle="tooltip" href="#ref44" id="44" title="Hoeller (1932a: 23) da el segundo verbo nominalizado con el paradigma-che, se puede haber equivocado  – ivava va’e significaría ‘ligero’, ver (22), sería una forma correcta, pero fuera del contexto. En vez de eso, la segunda opción parece ser la más correcta, usando o- ‘3.COREF’ (Hoeller 1932a: 280)."><sup>43</sup></a></td></tr>
 <tr><td></td><td>1SG-chocar</td><td>gente</td><td>3-jugar</td><td>ATR</td><td>3-pelear</td><td>ATR</td><td>3COREF-pelear</td><td>ATR</td></tr>
-<tr><td></td><td colspan="8">‘me choqué con personas que estaban jugando/peleando’</td></tr>
-</tbody>
-</table>
+<tr><td></td><td colspan="8">‘me choqué con personas que estaban jugando/peleando’</td></tr></tbody></table>
+
+
 <p style="text-align:right;">(Hoeller 1932a: 23, 280)</p>
 
 
@@ -2319,4 +2319,4 @@ Anm. Der Kuriosität halber sei bemerkt, das [sic.] die Weiber und die Mädchen 
 <a href="#53" id="ref53"><sup>53</sup></a> Citación original: “z bietet weiter keine Schwierigkeiten, ist aber ziemlich weich, sodass man oft fast s allein zu hören glaubt. Zìrì, die Chontapalme. Davon vielleicht ist der Name der Sirionó-Indianer, ein Zeichen, dass die Carai das z weich hören. <br/>
 Anm. Der Kuriosität halber sei bemerkt, das [sic.] die Weiber und die Mädchen das z wie s oder sz aussprechen, während die Männer des z-laut [sic.] haben. Ozo, er ging fort, sprechen also die Männer wie otso oder odso, die Weiber wie osso.” (Hoeller 1932b: 2).<br/>
 <a href="#54" id="ref54"><sup>54</sup></a> Hay una semejanza con el nombre del personaje mitológico andino llamado <i>Viracocha</i>, <i>Wiraqucha</i> o <i>Huiracocha</i>, que fue incorporado al panteón incaico en algún momento. La existencia de una posible conexión con el <i>Mbirakucha</i> guarayo todavía necesita ser investigada, junta con la ruta y el tiempo de expansión de este nombre y concepto.
-</you></ambo></v></you></ambo></v>
+
